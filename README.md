@@ -192,7 +192,7 @@ Open the notebook(s) in the notebooks/ folder
 Run cells step-by-step
 Contact / Credits
 
-Author: Samiksha Jagne
+Author: Samiksha Jagne 
 mail: samikshajagne2@gmail.com
 phone : 7620979617
 linkedin: https://www.linkedin.com/in/samiksha-jagne/
