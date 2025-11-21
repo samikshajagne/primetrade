@@ -1,0 +1,13 @@
+filename,guessed_plot,insight,evidence
+corelationheatmap.png,heatmap,"Correlation heatmap — reveals which features move together. Key ones: sentiment_score, sentiment_change, leverage, size, closedPnL.",
+dailytraderpnl.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+distributionofsentimentscore.png,histogram,"Distribution plot — helps identify skew and heavy tails. If PnL histogram is heavily right/left skewed, most traders lose/win respectively.",
+distributionoftraderpnl.png,histogram,"Distribution plot — helps identify skew and heavy tails. If PnL histogram is heavily right/left skewed, most traders lose/win respectively.",
+fearandgreedindexovertime.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+merged.csv,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+movingavgof10days.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+pnlduringfervsgreed.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+sentimentcategorycount.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+sentimentchangevspnl.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+sentimentscorevsdailypnl.png,unknown_image,Image detected but plot type is uncertain. Please confirm the plot type for more specific insights.,
+volatilityofsentimentvspnl.png,volatility_line,Volatility comparison between sentiment and PnL. Periods where both volatilities spike can indicate market-wide stress.,

@@ -1,0 +1,13 @@
+filename,insight
+corelationheatmap.png,Correlation heatmap: notable computed correlations — sentiment vs daily PnL = N/A; leverage vs PnL = N/A.
+dailytraderpnl.png,Daily PnL plot: daily aggregates not available.
+distributionofsentimentscore.png,Sentiment distribution plot.
+distributionoftraderpnl.png,Trader PnL distribution plot.
+fearandgreedindexovertime.png,Sentiment over time plot.
+merged.csv,Plot found but filename not matched to a template — please tell me the plot type for a tailored insight.
+movingavgof10days.png,Moving average plot: useful to smooth noise and reveal trend; check if MA is diverging from daily sentiment indicating regime change.
+pnlduringfervsgreed.png,PnL during Fear vs Greed: classification or closedPnL not available.
+sentimentcategorycount.png,Sentiment category counts: Fear=61837; Greed=50303; Extreme Greed=39992; Neutral=37686; Extreme Fear=21400
+sentimentchangevspnl.png,Sentiment change vs PnL correlation: insufficient data.
+sentimentscorevsdailypnl.png,Daily PnL plot: daily aggregates not available.
+volatilityofsentimentvspnl.png,Volatility comparison: periods where sentiment volatility and PnL volatility spike together indicate market stress.
